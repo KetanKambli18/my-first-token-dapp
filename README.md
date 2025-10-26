@@ -1,70 +1,110 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🪙 My First Token DApp — Built with React + Solidity
 
-## Available Scripts
+🚀 A simple yet powerful **ERC-20 Token DApp** that connects a custom smart contract to a **React frontend**, allowing users to:
 
-In the project directory, you can run:
+* Connect their **MetaMask wallet**
+* View their **token balance**
+* **Send tokens** directly from the browser
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### ⚙️ Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+| Layer                  | Tools / Frameworks         |
+| :--------------------- | :------------------------- |
+| **Smart Contract**     | Solidity, Remix IDE        |
+| **Blockchain Network** | Ethereum Testnet (Sepolia) |
+| **Frontend**           | React.js, TailwindCSS      |
+| **Wallet Integration** | MetaMask                   |
+| **Library**            | Ethers.js                  |
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🧩 Features
 
-### `npm run build`
+✅ Custom ERC-20 Token deployed on Sepolia
+✅ Wallet connection via MetaMask
+✅ Real-time token balance display
+✅ Token transfer functionality
+✅ Responsive UI built with TailwindCSS
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🧠 Learning Outcomes
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Through this project, I learned how to:
 
-### `npm run eject`
+* Write and deploy ERC-20 smart contracts using **Remix IDE**
+* Connect React frontend with blockchain using **Ethers.js**
+* Integrate **MetaMask** wallet and handle transactions
+* Build a basic **DApp architecture** end-to-end
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 💻 How to Run Locally
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1️⃣ **Clone the repository**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+git clone https://github.com/KetanKambli18/my-first-token-dapp.git
+cd my-first-token-dapp
+```
 
-## Learn More
+2️⃣ **Install dependencies**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+npm install
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+3️⃣ **Run the project**
 
-### Code Splitting
+```bash
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+4️⃣ **Open in browser**
+👉 Go to [http://localhost:3000](http://localhost:3000)
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### 🧾 Environment Setup
 
-### Making a Progressive Web App
+Before running, make sure you have:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+* **Node.js** (v16+)
+* **MetaMask** installed in your browser
+* **Contract ABI** file and contract address configured in `src/abi/token.json`
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### 🔗 Smart Contract Info
 
-### Deployment
+**Token Name:** Ketan Token
+**Symbol:** KIT
+**Network:** Sepolia Testnet
+**Contract Address:** `0x0742bf287De450b85e26B4bb592FF0C9C12ABcC3`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 📸 Preview
+![WhatsApp Image 2025-10-26 at 9 30 17 PM](https://github.com/user-attachments/assets/0e5a097f-ebf2-4358-84ce-27bfb565630e)
+
+
+
+---
+
+### 🧑‍💻 Author
+
+**Ketan Kambli**
+📍 Pune, India
+💼 [LinkedIn](https://linkedin.com/in/ketan-kambli-77496b266/) | 🧠 [GitHub](https://github.com/KetanKambli18)
+
+---
+
+### 🏷️ Tags
+
+#Blockchain #Web3 #Solidity #SmartContracts #React #MetaMask #EthersJS #LearningInPublic
+
+---
