@@ -90,7 +90,9 @@ Before running, make sure you have:
 
 ### 📸 Preview
 ![WhatsApp Image 2025-10-26 at 9 30 17 PM](https://github.com/user-attachments/assets/0e5a097f-ebf2-4358-84ce-27bfb565630e)
-
+![WhatsApp Image 2025-10-26 at 9 31 07 PM](https://github.com/user-attachments/assets/d17c7d6c-c55c-4d32-91db-0478a16beaca)
+![WhatsApp Image 2025-10-26 at 9 33 06 PM](https://github.com/user-attachments/assets/a928f9da-c303-4eda-949f-e43f2af811f1)
+![WhatsApp Image 2025-10-26 at 9 34 21 PM](https://github.com/user-attachments/assets/45beb6ee-744e-44ae-ace0-9ffe5dc75985)
 
 
 ---
